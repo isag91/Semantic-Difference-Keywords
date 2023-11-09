@@ -15,7 +15,7 @@ URL: http://www.fidelcastro.cu/es/biblioteca/documentos/coleccion/todas
 URL: https://enlacezapatista.ezln.org.mx/category/comunicado/ \
 All the original Spanish texts were selected. 
 
-Although this data is publicly available, we do not have permission to redistribute it. However, **the embeddings of the Word2Vec model are available here**: https://lindat.mff.cuni.cz/repository/xmlui/handle/0011234/5232.
+Although this data is publicly available, we do not have permission to redistribute it. However, **the embeddings of the Word2Vec model are available here**: http://hdl.handle.net/11372/LRT-5232.
 
 Here is a short overview of the files in this directory.
 
